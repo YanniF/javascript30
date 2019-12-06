@@ -5,3 +5,4 @@ https://javascript30.com/
 ## Projects
 - JavaScript Drum Kit
 - JS and CSS Clock
+- CSS Variables
